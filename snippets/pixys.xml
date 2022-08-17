@@ -70,6 +70,7 @@
   <project path="hardware/qcom-caf/msm8998/audio" name="hardware_qcom-caf_msm8998_audio" revision="twelve" remote="pixys" /> 
   <project path="hardware/qcom-caf/msm8998/display" name="hardware_qcom-caf_msm8998_display" revision="twelve" remote="pixys" />
   <project path="hardware/qcom-caf/msm8998/media" name="hardware_qcom-caf_msm8998_media" revision="twelve" remote="pixys" />
+  <project path="hardware/qcom-caf/wlan" name="hardware_qcom-caf_wlan" remote="pixys-beta" />
 
   <!-- NQ-NFC Repos -->
   <project path="vendor/nxp/opensource/interfaces/nfc" name="vendor_nxp_interfaces_opensource_nfc" remote="pixys" />

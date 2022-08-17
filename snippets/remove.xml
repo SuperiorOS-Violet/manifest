@@ -29,6 +29,9 @@
   <remove-project name="device/ti/beagle-x15" />
   <remove-project name="device/ti/beagle-x15-kernel" />
 
+  <!-- external repos -->
+  <remove-project name="platform/external/tinycompress" />
+
   <!-- General repos -->
   <remove-project name="platform/build" />
   <remove-project name="platform/build/blueprint" />
